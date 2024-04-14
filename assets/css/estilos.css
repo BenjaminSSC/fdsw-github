@@ -4,8 +4,12 @@ body {
 
 /* Hero Section */
 
+.img-logo{
+  width: 80px;
+}
+
 #Hero-Section {
-  background-image: url("../img/bg-change.jpg");
+  background-image: url("../img/perfil.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
